@@ -1,0 +1,8 @@
+git clone https://github.com/ProgrammingClassrooms/Software-Eng.git
+git config --global user.name "Mohamad Hamdan"
+git config --global user.email mhamdan1@uncc.edu
+git init
+git add -A
+git commit -m "first commit"
+git remote add myorigin <https://github.com/MohamadH10/HamdanVisualization>
+git push -u myorigin master
